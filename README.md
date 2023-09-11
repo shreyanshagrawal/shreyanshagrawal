@@ -17,5 +17,6 @@ Skills: REACT / JS / HTML / CSS / Python
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshagrawal)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyanshAgrawal&show_icons=true&theme=tokyonight&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShreyanshAgrawal&show_icons=ture&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Profile views](https://gpvc.arturio.dev/shreyanshagrawal)  
