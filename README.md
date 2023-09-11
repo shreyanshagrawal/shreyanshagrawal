@@ -6,7 +6,7 @@ I am currently a student.
 
 Skills: REACT / JS / HTML / CSS / Python
 
-- 🔭 I’m currently working on my education and improving my stills 
+- 🔭 I’m currently working on my education and improving my skills 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shreyanshagrawal)  
