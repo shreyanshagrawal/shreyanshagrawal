@@ -1,4 +1,4 @@
-![MasterHead](\https://github.com/shreyanshagrawal/shreyanshagrawal/blob/main/shreyansh.gif?raw=true)
+![MasterHead](\https://raw.githubusercontent.com/shreyanshagrawal/shreyanshagrawal/refs/heads/main/shreyansh.gif)
 
 <h1 align="center">Hi 👋, I'm Shreyansh Agrawal</h1>
 <h3 align="center">A passionate full developer from India</h3>
